@@ -1,7 +1,7 @@
 README
 ===========================
 ng2-admin-cli
-该项目参考ng2-admin(https://github.com/akveo/ng2-admin)
+该项目来源于ng2-admin(https://github.com/akveo/ng2-admin)
 
 ****
 ###　Author:Alex Dong
@@ -15,7 +15,7 @@ ng2-admin-cli
 3. `npm install`
 4. run `npm start` from a terminal
 
-### 效果预览（https://github.com/akveo/ng2-admin）
+### 效果预览(https://github.com/akveo/ng2-admin)
 
 ### 项目地址：
 https://github.com/Alex-0407/ng2-admin-cli
@@ -31,22 +31,3 @@ https://github.com/Alex-0407/ng2-admin-cli
 * 扫一扫下面的二维码或者搜索"全栈弄潮儿"
 
 <img src="https://github.com/Alex-0407/sinacloud-node/blob/master/fullstack-8cm.jpg" width="320px" style="display:inline;">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://github.com/akveo/ng2-admin
