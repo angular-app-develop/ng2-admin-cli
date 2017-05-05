@@ -15,7 +15,7 @@ ng2-admin-cli
 3. `npm install`
 4. run `npm start` from a terminal
 
-### 效果预览(https://github.com/akveo/ng2-admin)
+### 效果预览(https://alex-0407.github.io/ng2-admin-cli)
 
 ### 项目地址：
 https://github.com/Alex-0407/ng2-admin-cli
