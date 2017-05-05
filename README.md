@@ -1,57 +1,74 @@
-[![Build Status](https://travis-ci.org/akveo/ng2-admin.svg?branch=master)](https://travis-ci.org/akveo/ng2-admin)
-[![Join the chat at https://gitter.im/ng2-admin/Lobby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ng2-admin/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Dependency Status](https://david-dm.org/akveo/ng2-admin/status.svg)](https://david-dm.org/akveo/ng2-admin)
+README
+===========================
+ng2-admin-cli
+该项目参考ng2-admin(https://github.com/akveo/ng2-admin)
 
-# Admin panel framework based on Angular 2, Bootstrap 4 and Webpack
+****
+###　Author:Alex Dong
 
-Admin template made with :heart:  by [Akveo team](http://akveo.com/). Follow us on [Twitter](https://twitter.com/akveo_inc) to get latest news about this template first!
+===========================
 
-### Demo
+### Installation & Development
 
-<a target="_blank" href="http://akveo.com/ng2-admin/"><img src="http://i.imgur.com/QK9AzHj.jpg" width="600" alt="Sky Blue"/></a>
+1. clone this repo: `git clone https://github.com/Alex-0407/ng2-admin-cli.git`
+2. `cd ng2-admin-cli`
+3. `npm install`
+4. run `npm start` from a terminal
 
-<a target="_blank" href="http://akveo.com/ng2-admin/">Live Demo</a>
+### 效果预览
 
-## Angular 1.x version
-Here you can find Angular 1.x based version: [Blur Admin](http://akveo.github.io/blur-admin/)
- 
-## Documentation
-Installation, customization and other useful articles: https://akveo.github.io/ng2-admin/
+![动态图](https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/ionic2-preview.gif?raw=true)
 
-## Based on
-Angular 2, Bootstrap 4, Webpack and lots of awesome modules and plugins
+### 项目地址：
+https://github.com/Alex-0407/ng2-admin-cli
 
-## BrowserStack
-This project runs its tests on multiple desktop and mobile browsers using [BrowserStack](http://www.browserstack.com).
+### 新浪云活动
 
-<img src="https://cloud.githubusercontent.com/assets/131406/22254249/534d889e-e254-11e6-8427-a759fb23b7bd.png" height="40" />
+新浪云平台Sina App Engine(SAE)，是由新浪公司开发和运营的开放云计算平台的核心组成部分，国内第一家公有云计算平台，可以为网站开发者，App开发者提供稳定、快捷、透明、可控的服务化的平台，并且减少开发者的开发和维护成本。
 
-## How can I support developers?
-- Star our GitHub repo :star:
-- Create pull requests, submit bugs, suggest new features or documentation updates :wrench:
-- Follow us on [Twitter](https://twitter.com/akveo_inc) :feet:
-- Like our page on [Facebook](https://www.facebook.com/akveo/) :thumbsup:
+「新浪云福利」1000云豆免费领！低成本、免运维、灵活、安全稳定，轻松应对业务爆发式增长，一起来用吧！ 注册地址：http://t.cn/R5oFIaD
 
-## Can I hire you guys?
-Yes!  Visit [our homepage](http://akveo.com/) or simply leave us a note to [contact@akveo.com](mailto:contact@akveo.com). We will be happy to work with you!
 
-## Features
-* TypeScript
-* Webpack
-* Responsive layout
-* High resolution
-* Bootstrap 4 CSS Framework
-* Sass
-* Angular 2
-* jQuery
-* Charts (Chartist, Chart.js)
-* Maps (Google, Leaflet, amMap)
-* and many more!
+### 最新技术福利
 
-## License
-[MIT](LICENSE.txt) license.
+免费视频教程百度云盘链接：
 
-### From akveo
+React Native入门  链接: https://pan.baidu.com/s/1qYtryC8
 
-Enjoy :metal:
-We're always happy to hear your feedback!
+ionic入门  链接: https://pan.baidu.com/s/1i5mKcnF
+
+微信小程序入门  链接: https://pan.baidu.com/s/1o8FGjDw
+
+为了保证连接的可使用性，请关注微信公众号 <font color=red>`全栈弄潮儿`</font>，
+
+React Native入门视频 回复“RN提取码”领取 提取码
+
+ionic入门视频 回复“ionic提取码”领取 提取码
+
+微信小程序入门视频 回复“小程序提取码”领取 提取码
+
+
+#### 欢迎关注我的微信公众号 <font color=red face="黑体">`全栈弄潮儿`</font> ，获取更多学习资源
+
+* 扫一扫下面的二维码或者搜索"全栈弄潮儿"
+
+<img src="https://github.com/Alex-0407/sinacloud-node/blob/master/fullstack-8cm.jpg" width="320px" style="display:inline;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://github.com/akveo/ng2-admin
